@@ -45,7 +45,7 @@ Supports gradient accumulation, mixed-precision training, and model checkpointin
 
 Outputs predicted depth maps at 256×256 resolution.
 
-### 2. Self-Supervised PatchNet
+### 2. Self-Supervised
 
 Learns image representations by reconstructing random patches from SPOT6 images.
 
@@ -55,7 +55,7 @@ Ideal for pretraining or extracting features when depth labels are unavailable.
 
 Includes patch extraction, data augmentation, and visualization utilities.
 
-### 3. Physics-Inspired Neural Network (PINN)
+### 3. Physics-Informed Neural Network (PINN)
 
 Predicts bathymetry from SPOT6 images using physics-consistent loss functions.
 
