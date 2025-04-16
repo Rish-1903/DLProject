@@ -87,7 +87,7 @@ Ensure that the normalization parameter .npy files are present for each image mo
 ## 🚀 Usage
 ### 1. Train Multimodal Transformer
 
-    python multimodal_transformer.py
+    python multimodalfusion.py
 
 Trains the transformer-based model using all modalities.
 
@@ -97,7 +97,7 @@ Evaluates on the test set after training and prints performance metrics.
 
 ### 2. Train Self-Supervised PatchNet
 
-    python selfsupervised_patchnet.py
+    python selfsupervised.py
 
 Trains the PatchNet autoencoder using SPOT6 patches.
 
