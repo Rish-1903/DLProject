@@ -1,8 +1,8 @@
 # DLProject 
-#MagicBathyNet: Multimodal Bathymetry Estimation Suite
+# MagicBathyNet: Multimodal Bathymetry Estimation Suite
 
 This repository provides three advanced deep learning pipelines for bathymetry estimation using remote sensing imagery. The models leverage multimodal data, self-supervised learning, and physics-inspired neural networks to enable robust depth prediction from aerial, satellite, and multispectral inputs.
-##📚 Table of Contents
+## 📚 Table of Contents
 
     Project Structure
 
@@ -18,7 +18,7 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 
     Citation
 
-##📁 Project Structure
+## 📁 Project Structure
 
 .
 ├── multimodal_transformer.py      # Multimodal Transformer for bathymetry
@@ -28,8 +28,8 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 ├── README.md
 └── (data folders and output directories)
 
-##🧠 Model Descriptions
-###1. Multimodal Transformer for Bathymetry
+## 🧠 Model Descriptions
+### 1. Multimodal Transformer for Bathymetry
 
     Fuses aerial, Sentinel-2, and SPOT6 imagery for robust depth prediction.
 
@@ -39,7 +39,7 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 
     Outputs predicted depth maps at 256×256 resolution.
 
-###2. Self-Supervised PatchNet
+### 2. Self-Supervised PatchNet
 
     Learns image representations by reconstructing random patches from SPOT6 images.
 
@@ -49,7 +49,7 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 
     Includes patch extraction, data augmentation, and visualization utilities.
 
-###3. Physics-Inspired Neural Network (PINN)
+### 3. Physics-Inspired Neural Network (PINN)
 
     Predicts bathymetry from SPOT6 images using physics-consistent loss functions.
 
@@ -59,7 +59,7 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 
     Supports sliding window inference for large scenes and advanced augmentations.
 
-##📦 Data Preparation
+## 📦 Data Preparation
 
 Organize your data as follows:
 
@@ -78,8 +78,8 @@ Organize your data as follows:
 
 Ensure that the normalization parameter .npy files are present for each image modality.
 
-##🚀 Usage
-###1. Train Multimodal Transformer
+## 🚀 Usage
+### 1. Train Multimodal Transformer
 
 python multimodal_transformer.py
 
@@ -89,7 +89,7 @@ python multimodal_transformer.py
 
     Evaluates on the test set after training and prints performance metrics.
 
-###2. Train Self-Supervised PatchNet
+### 2. Train Self-Supervised PatchNet
 
 python selfsupervised_patchnet.py
 
@@ -97,7 +97,7 @@ python selfsupervised_patchnet.py
 
     Saves reconstruction outputs and visualization images for test examples.
 
-###3. Train Physics-Inspired Neural Network (PINN)
+### 3. Train Physics-Inspired Neural Network (PINN)
 
 python physics_inspired_nn.py
 
@@ -107,7 +107,7 @@ python physics_inspired_nn.py
 
     Evaluates on the test set and saves predictions and comparison plots.
 
-##📊 Evaluation & Visualization
+## 📊 Evaluation & Visualization
 
     All scripts report standard evaluation metrics: MAE, MSE, RMSE, SSIM, etc.
 
@@ -127,7 +127,7 @@ python physics_inspired_nn.py
 
         comparison_*.png
 
-##📦 Requirements
+## 📦 Requirements
 
 Refer to requirements.txt for dependencies:
 
@@ -143,6 +143,6 @@ gdal
 
     Note: To enable CUDA acceleration, ensure the correct PyTorch version for your GPU and CUDA version is installed. See the official PyTorch installation guide for details.
 
-##📌 Citation
+## 📌 Citation
 
 If you use this codebase or dataset in your research, please cite the original MagicBathyNet paper and acknowledge this repository.
