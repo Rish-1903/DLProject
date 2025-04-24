@@ -8,15 +8,15 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 
 [Model Descriptions](https://github.com/Rish-1903/DLProject/blob/main/README.md#-model-descriptions)
 
-[Data Preparation]
+[Data Preparation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-data-preparation)
 
-[Usage]
+[Usage](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-usage)
 
-[Evaluation & Visualization]
+[Evaluation & Visualization](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-usage)
 
-[Requirements]
+[Requirements](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-requirements)
 
-[Citation]
+[Citation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-citation)
 
 ## 📁 Project Structure
 ```bash
