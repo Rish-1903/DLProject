@@ -1,5 +1,5 @@
 # DLProject 
-# MagicBathyNet: Multimodal Bathymetry Estimation Suite
+# PINN-SSL-MMF: Deep Learning for Bathymetry Estimation
 
 This repository provides three advanced deep learning pipelines for bathymetry estimation using remote sensing imagery. The models leverage multimodal data, self-supervised learning, and physics-inspired neural networks to enable robust depth prediction from aerial, satellite, and multispectral inputs.
 ## 📚 Table of Contents
