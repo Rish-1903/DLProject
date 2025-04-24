@@ -6,7 +6,7 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 
 [Project Structure](https://github.com/Rish-1903/DLProject/tree/main?tab=readme-ov-file#-project-structure)
 
-[Model Descriptions]
+[Model Descriptions](https://github.com/Rish-1903/DLProject/blob/main/README.md#-model-descriptions)
 
 [Data Preparation]
 
