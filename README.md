@@ -149,5 +149,5 @@ Refer to requirements.txt for dependencies:
 
 
 ## 📌 Citation
-MagicBathyNet(https://github.com/pagraf/MagicBathyNet)
+MagicBathyNet (https://github.com/pagraf/MagicBathyNet)
 
