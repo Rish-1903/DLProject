@@ -4,19 +4,19 @@
 This repository provides three advanced deep learning pipelines for bathymetry estimation using remote sensing imagery. The models leverage multimodal data, self-supervised learning, and physics-inspired neural networks to enable robust depth prediction from aerial, satellite, and multispectral inputs.
 ## 📚 Table of Contents
 
-Project Structure
+[Project Structure]
 
-Model Descriptions
+[Model Descriptions]
 
-Data Preparation
+[Data Preparation]
 
-Usage
+[Usage]
 
-Evaluation & Visualization
+[Evaluation & Visualization]
 
-Requirements
+[Requirements]
 
-Citation
+[Citation]
 
 ## 📁 Project Structure
 ```bash
