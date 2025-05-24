@@ -4,19 +4,19 @@
 This repository provides three advanced deep learning pipelines for bathymetry estimation using remote sensing imagery. The models leverage multimodal data, self-supervised learning, and physics-inspired neural networks to enable robust depth prediction from aerial, satellite, and multispectral inputs.
 ## 📚 Table of Contents
 
-[Project Structure](https://github.com/Rish-1903/DLProject/tree/main?tab=readme-ov-file#-project-structure)
+1. [Project Structure](https://github.com/Rish-1903/DLProject/tree/main?tab=readme-ov-file#-project-structure)
 
-[Model Descriptions](https://github.com/Rish-1903/DLProject/blob/main/README.md#-model-descriptions)
+2. [Model Descriptions](https://github.com/Rish-1903/DLProject/blob/main/README.md#-model-descriptions)
 
-[Data Preparation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-data-preparation)
+3. [Data Preparation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-data-preparation)
 
-[Usage](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-usage)
+4. [Usage](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-usage)
 
-[Evaluation & Visualization](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-usage)
+5. [Evaluation & Visualization](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-usage)
 
-[Requirements](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-requirements)
+6. [Requirements](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-requirements)
 
-[Citation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-citation)
+7. [Citation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-citation)
 
 ## 📁 Project Structure
 ```bash
