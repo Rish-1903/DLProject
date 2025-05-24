@@ -2,6 +2,8 @@
 # PINN-SSL-MMF: Deep Learning for Bathymetry Estimation
 
 This repository provides three advanced deep learning pipelines for bathymetry estimation using remote sensing imagery. The models leverage multimodal data, self-supervised learning, and physics-inspired neural networks to enable robust depth prediction from aerial, satellite, and multispectral inputs.
+
+![Alt text](images/OverallMeth.png)
 ## 📚 Table of Contents
 
 1. [Project Structure](https://github.com/Rish-1903/DLProject/tree/main?tab=readme-ov-file#-project-structure)
@@ -17,6 +19,7 @@ This repository provides three advanced deep learning pipelines for bathymetry e
 6. [Requirements](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-requirements)
 
 7. [Citation](https://github.com/Rish-1903/DLProject?tab=readme-ov-file#-citation)
+
 
 ## 📁 Project Structure
 ```bash
