@@ -72,7 +72,7 @@ Loss components: Data-driven, smoothness, and depth-consistency terms.
 
 Supports sliding window inference for large scenes and advanced augmentations.
 
-![Alt text](images/physiscsinformednn.png)
+![Alt text](images/physicsinformednn.png)
 
 ## 📦 Data Preparation
 
